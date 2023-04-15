@@ -1,0 +1,34 @@
+[
+	{
+		"externalReferenceCode": "GOALKEEPER",
+		"key": "GOALKEEPER",
+		"name": "Goalkeeper",
+		"name_i18n": {
+			"en-US": "Goalkeeper"
+		}
+	},
+	{
+		"externalReferenceCode": "DEFENDER",
+		"key": "DEFENDER",
+		"name": "Defender",
+		"name_i18n": {
+			"en-US": "Defender"
+		}
+	},
+	{
+		"externalReferenceCode": "MIDFIELDER",
+		"key": "MIDFIELDER",
+		"name": "Midfielder",
+		"name_i18n": {
+			"en-US": "Midfielder"
+		}
+	},
+	{
+		"externalReferenceCode": "FORWARD",
+		"key": "FORWARD",
+		"name": "Forward",
+		"name_i18n": {
+			"en-US": "Forward"
+		}
+	}
+]
