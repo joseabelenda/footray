@@ -7,6 +7,7 @@
 **/bin
 **/build
 **/build_gradle
+**/classes
 **/dist
 **/node_modules
 **/node_modules_cache
