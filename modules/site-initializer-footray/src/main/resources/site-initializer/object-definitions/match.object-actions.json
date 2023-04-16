@@ -1,6 +1,6 @@
 [
   {
-    "active": true,
+    "active": false,
     "description": "Send push notification with match score",
     "errorMessage": {
       "en_US": "An unexpected error occurred."
