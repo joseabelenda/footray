@@ -1,0 +1,5 @@
+assemble:
+    - include: "site-initializer/**"
+liferay-site-initializer:
+  siteTemplateName: Footray Client Extension
+  type: siteInitializer

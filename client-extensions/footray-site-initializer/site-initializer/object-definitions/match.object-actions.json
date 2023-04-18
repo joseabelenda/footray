@@ -1,0 +1,18 @@
+[
+  {
+    "active": false,
+    "description": "Send push notification with match score",
+    "errorMessage": {
+      "en_US": "An unexpected error occurred."
+    },
+    "label": {
+      "en_US": "Send push notification with match score"
+    },
+    "name": "PushNotification",
+    "objectActionExecutorKey": "webhook",
+    "objectActionTriggerKey": "onAfterUpdate",
+    "parameters": {
+      "url": "http://localhost:3000"
+    }
+  }
+]
